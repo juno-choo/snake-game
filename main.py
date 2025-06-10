@@ -2,8 +2,9 @@
 from tkinter import *
 import random
 
-# --- CONSTANTS ---
-# These are the global settings for our game.
+""" --- CONSTANTS ---
+These are the global settings for our game.
+"""
 
 GAME_WIDTH = 1000  # Width of the game window in pixels.
 GAME_HEIGHT = 800  # Height of the game window in pixels.
